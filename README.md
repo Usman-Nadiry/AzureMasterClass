@@ -1,5 +1,5 @@
 
-# Repository for John Savill's Azure Master Class V2 #
+# Repository for usman Savill's Azure Master Class V2 #
 
 <a href="https://youtube.com/NTFAQGuy" rel="YouTube Channel">![On-Board to Azure](/Images/AzMCLogoSmall.png)</a>
 
